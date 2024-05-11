@@ -1,7 +1,7 @@
 # 추억을 모아모아
 
 ### <회원가입/로그인>
-https://github.com/MEMORY-MOA/README/assets/46617269/54f6364d-5ef1-4ee2-9ca4-401cd4b5b694
+https://github.com/MEMORY-MOA/README/assets/46617269/ee055ac9-ec5c-4f3e-8bbd-a970c846826c
 
 ### <친구 관리>
 https://github.com/MEMORY-MOA/README/assets/46617269/6dcc2b0a-b91f-4ca4-ba5a-218f7c25290f
